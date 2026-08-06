@@ -1,0 +1,12 @@
+#include <stdio.h>
+
+int main() {
+    int ascii;
+
+    printf("Enter an ASCII code: ");
+    scanf("%d", &ascii);
+
+    printf("The corresponding character is: %c\n", ascii);
+
+
+}

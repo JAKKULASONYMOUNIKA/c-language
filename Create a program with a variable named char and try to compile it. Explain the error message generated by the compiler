@@ -1,0 +1,6 @@
+#include <stdio.h>
+void main()
+{
+    char = 5;
+    printf("%d", char);
+}

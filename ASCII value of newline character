@@ -1,0 +1,7 @@
+int main() {
+    char ch = '\n';
+
+    printf("ASCII value of newline character is %d\n", ch);
+
+
+}

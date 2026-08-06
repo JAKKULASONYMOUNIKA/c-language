@@ -1,0 +1,11 @@
+#include<stdio.h>
+void main()
+{
+    int a=2;
+    float b=22.4;
+    char c=2;
+    long d=4;
+    double e=6;
+    short f=7;
+    printf("%d,%f,%c,%ld,%lf,%hu",a,b,c,d,e,f);
+}

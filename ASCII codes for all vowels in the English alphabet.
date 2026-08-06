@@ -1,0 +1,13 @@
+#include <stdio.h>
+
+int main() {
+    char vowels[] = {'A', 'E', 'I', 'O', 'U', 'a', 'e', 'i', 'o', 'u'};
+    int i;
+
+    printf("Vowels and their ASCII values:\n");
+
+    for(i = 0; i < 10; i++) {
+        printf("%c = %d\n", vowels[i], vowels[i]);
+    }
+
+}

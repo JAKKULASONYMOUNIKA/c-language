@@ -1,0 +1,8 @@
+#include <stdio.h>
+
+void main()
+{
+    int const = 5;
+    printf("%d", const);
+
+}

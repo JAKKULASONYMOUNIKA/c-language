@@ -1,0 +1,13 @@
+#include<stdio.h>
+void main()
+{
+int a,x; //declaration
+a=10; //assignment
+x=a++;
+printf("value of x : %d\n",x); //10
+printf("value of a : %d",a); //11
+
+x=++a;
+printf("value of a : %d\n",a); //10
+printf("value of x : %d",x); //11
+}

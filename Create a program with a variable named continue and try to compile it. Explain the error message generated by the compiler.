@@ -1,0 +1,6 @@
+#include<stdio.h>
+void main()
+{
+    continue= 5;
+    printf("%d", continue);
+}

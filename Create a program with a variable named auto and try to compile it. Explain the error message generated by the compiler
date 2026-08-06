@@ -1,0 +1,8 @@
+#include <stdio.h>
+
+void main()
+{
+    int auto = 10;
+    printf("%d", auto);
+
+}

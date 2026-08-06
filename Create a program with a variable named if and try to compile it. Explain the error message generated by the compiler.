@@ -1,0 +1,7 @@
+#include <stdio.h>
+
+int main()
+{
+    int if = 20;
+    printf("%d", if);
+}

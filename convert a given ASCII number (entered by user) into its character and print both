@@ -1,0 +1,16 @@
+#include <stdio.h>
+
+int main() {
+    int ascii;
+    char ch;
+
+    printf("Enter an ASCII number: ");
+    scanf("%d", &ascii);
+
+    ch = ascii;
+
+    printf("ASCII number: %d\n", ascii);
+    printf("Corresponding character: %c\n", ch);
+
+    return 0;
+}
